@@ -1,0 +1,126 @@
+html,
+body {
+  height: 100%;
+  font-family: Arial, Verdana, sans-serif; 
+}
+
+.top {
+  background-image: url('../img/pashport-city.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:600px;
+  width: 70%;
+}
+
+.quote{
+  color: yellow;
+  margin-left: 30px;
+  padding-top: 50px;
+  font-size: 30px;
+}
+
+.more {
+  color: #fff;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.buttom {
+  background-color: #5f5f45;
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 70%;
+}
+
+.wordings {
+  float: left;
+  padding-left: 30px;
+  width: 65%;
+  margin-top: 10px;
+}
+
+.wordings h1, h3,
+ dt, dl, p {
+  color: #fff;
+}
+
+.heading {
+  font-size: 62px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.plus {
+  font-weight: normal;
+  top: -0.3em;
+  padding-left: 5px;
+}
+
+.subheading {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 30px;
+  margin-top: -10px;
+}
+
+.ss {
+  color: #ffff00;
+}
+
+.benefits {
+  margin-top: -20px;
+}
+
+.benefits ul {
+  margin-left: -64px;
+  margin-top: 5px;
+}
+
+.contact {
+  font-size: 13px;
+}
+
+.visit {
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.postpaid {
+  color: yellow;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.link {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.img {
+  float: right;
+  width: 16%;
+  color: #fff;
+}
+
+.deal {
+  margin-top: 30px;
+  width: 130px
+}
+
+.logo {
+  margin-top: 70px;
+  width: 130px;
+}
+
+.fa {
+  font-size: 15px;
+}
+
+.footer {
+  color: #fff;
+  font-size: 10px;
+  margin-top: -10px;
+}
